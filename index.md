@@ -1,3 +1,9 @@
+---
+layout: page
+title: About me
+subtitle: Why you'd want to go on a date with me
+---
+
 ## Welcome to Xianghao's Homepage
 
 You can use the [editor on GitHub](https://github.com/kxh001/kxh001.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
