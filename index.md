@@ -1,5 +1,5 @@
 ## Xianghao Kong
-<img align="right" src="./Images/Portrait.jpg"/>
+<div align="left"><img width="65" height="75" src="./Images/Portrait.jpg"/></div>
 
 <!-- ![Portrait](./Images/Portrait.jpg){:height="25%" width="25%"}  -->
 - Ph.D. Student 
