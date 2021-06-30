@@ -1,6 +1,11 @@
 ## Welcome to Xianghao's Homepage
-![Portrait](/Images/Portrait.jpg)
-You can use the [editor on GitHub](https://github.com/kxh001/kxh001.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+![Portrait](/Images/Portrait.jpg) Ph.D. Student 
+Department of Computer Science and Engineering 
+University of California, Riverside
+
+### Short Bio
+Xianghao Kong received his B.S. degree in Computer Science from Hangzhou Dianzi University in 2019. Now, he is persuing his Ph.D. degree in University of California, Riverside, USA, under the supervision from [Dr. Nanpeng Yu](https://intra.ece.ucr.edu/~nyu/).
+<!-- You can use the [editor on GitHub](https://github.com/kxh001/kxh001.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files. -->
 
 ### Education
 
