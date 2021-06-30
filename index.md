@@ -1,5 +1,7 @@
 ## Xianghao Kong
-![Portrait](./Images/Portrait.jpg){:height="25%" width="25%"} 
+<img align="right" src="./Images/Portrait.jpg"/>
+
+<!-- ![Portrait](./Images/Portrait.jpg){:height="25%" width="25%"}  -->
 - Ph.D. Student 
 - Department of Computer Science and Engineering 
 - University of California, Riverside
