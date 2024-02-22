@@ -68,6 +68,17 @@
       year: 2018
       description: Task-Independent EEG-Identification via Low-Rank Matrix Decompsition
 
+- title: Services
+  type: nested_list
+  contents:
+    - title: Conference Reviewer
+      items:
+        - CVPR 2024 (3 papers)
+        - ECCV 2024
+    - title: Industry Presentation
+      items:
+        - Walmart Labs 2023
+
 - title: Honors and Awards
   type: time_table
   contents:
@@ -86,14 +97,3 @@
         - Zhejiang Province Government Scholarship.
         - 1st Prize University Scholarship from Hangzhou Dianzi University.
 
-#- title: Academic Interests
-#  type: nested_list
-#  contents:
-#    - title: Topic 1.
-#      items:
-#        - Description 1.
-#        - Description 2.
-#    - title: Topic 2.
-#      items:
-#        - Description 1.
-#        - Description 2.
