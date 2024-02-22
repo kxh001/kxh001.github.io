@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 
+subtitle: Hello/你好👋
 
 profile:
   align: right
