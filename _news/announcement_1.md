@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2023-11-217 
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+I attend [SoCalNLP 2023](https://socalnlp.github.io/symp23/index.html) to present information-theoretic diffusion model and its potential application!

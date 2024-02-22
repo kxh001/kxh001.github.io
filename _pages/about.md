@@ -19,4 +19,5 @@ social: true # includes social icons at the bottom of the page
 I'm a fifth-year CS Ph.D. student advised by AMAZING Professor [Greg Ver Steeg](https://profiles.ucr.edu/app/home/profile/gregoryv) at the University of California, Riverside. 
 My research interest focuses on Generative AI and Explainable ML. 
 
-I love sketching 🎨🖌️. You can find some pieces of my work in [My Sketch](https://kxh001.github.io/sketch) if you are interested in.
+I'm living at SoCal and love sketching 🎨🖌️. 
+You can find some pieces of my work in [My Sketch](https://kxh001.github.io/sketch) if you are interested in.
