@@ -5,7 +5,7 @@ title: cv
 nav: true
 nav_order: 2
 #cv_pdf: example_pdf.pdf
-#description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+description: My [LinkedIn](https://www.linkedin.com/in/xianghao-theo-k-5ba559172/)
 toc:
   sidebar: left
 ---
