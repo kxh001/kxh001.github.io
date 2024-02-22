@@ -11,43 +11,46 @@
   contents:
     - title: CS Ph.D.
       institution: University of California, Riverside
-      year: 2019 - present
+      year: 2019 - now
       description:
         - title: A GenAI and Explainable ML fanatic.
           contents:
             - Diffusion Models
-            - Information Theory]=
+            - Information Theory
             - Desity Estimation
     - title: CS B.S.
       institution: Hangzhou Dianzi University
       year: 2015 - 2019
       description:
         - title: Excellent student graduated from the Honors College.
+          contents:
+
 
 - title: Experience
   type: time_table
   contents:
     - title: Research Intern
       institution: SonyAI, CA, USA
-      year: 01/2024 - 03/2024
+      year: Jan - Mar, 2024
       description:
         - fortunate to work with Vikash Sehwag
     - title: Graduate Student Researcher
       institution: Univerisity of California, Riverside, CA, USA
-      year: 01/2022 - present
+      year: 2022 - now
       description:
         - I am studying Generative AI and explainable ML based on information theory and probability estimation.
 
     - title: Graduate Student Researcher
       institution: Univerisity of California, Riverside, CA, USA
-      year: 01/2020 - 11/2021
+      year: 2020 - 2021
       description:
         - Experienced in Big Streaming Data Mining, focusing on online anomaly detection and high-dimensional time series analysis.
-        - Matrix Decomposition
 
     - title: Undergraduate Student Researcher
       institution: Hangzhou Dianzi University, China
-      year: 09/2016 - 06/2019
+      year: 2016 - 2019
+      description:
+        - Experienced in Machine Learning of matrix or tensor decomposition and sparse representation.
 
 - title: Open Source Projects
   type: time_table
@@ -55,10 +58,11 @@
     - title: <a href="https://github.com/kxh001/ITdiffusion">ITDiffusion</a>
       year: 2023
       description: Information-Theoretic Diffusion - A brand new diffusion model or density estimator based on information theory.
-  contents:
+
     - title: <a href="https://github.com/kxh001/Info-Decomp">ITDiffusion</a>
       year: 2024
       description: Interpretable Diffusion Via Information Decomposition - Illuminating the fine-grained relationships learned by diffusion models by noticing a precise relationship between diffusion and information decomposition
+
 - title: Honors and Awards
   type: time_table
   contents:
@@ -69,7 +73,7 @@
       items:
         - The Meritorious Winner in Interdisciplinary Contest in Modeling. (top 9.74% in over 20,000 teams all over the world)
         - Zhejiang Province Government Scholarship.
-    - yesr: 2017
+    - year: 2017
       items:
         - 1st Prize University Scholarship from Hangzhou Dianzi University.
     - year: 2016
