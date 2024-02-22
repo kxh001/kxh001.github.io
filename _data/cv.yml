@@ -22,14 +22,13 @@
       institution: Hangzhou Dianzi University
       year: 2015 - 2019
       description:
-        - title: Excellent student graduated from the Honors College.
-          contents:
+        - title: Execellent student graduated from the Honors College.
 
 
 - title: Experience
   type: time_table
   contents:
-    - title: Research Intern
+    - title: Research Intern -- GenAI
       institution: SonyAI, CA, USA
       year: Jan - Mar, 2024
       description:
@@ -59,9 +58,9 @@
       year: 2023
       description: Information-Theoretic Diffusion - A brand new diffusion model or density estimator based on information theory.
 
-    - title: <a href="https://github.com/kxh001/Info-Decomp">ITDiffusion</a>
+    - title: <a href="https://github.com/kxh001/Info-Decomp">Info-Decomp</a>
       year: 2024
-      description: Interpretable Diffusion Via Information Decomposition - Illuminating the fine-grained relationships learned by diffusion models by noticing a precise relationship between diffusion and information decomposition
+      description: Interpretable Diffusion Via Information Decomposition - Illuminating the fine-grained relationships learned by diffusion models by noticing a precise relationship between diffusion and information decomposition.
 
 - title: Honors and Awards
   type: time_table
