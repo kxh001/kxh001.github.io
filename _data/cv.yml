@@ -24,6 +24,8 @@
       year: 2015 - 2019
       description:
         - title: Execellent student graduated from the Honors College.
+          contents:
+            - Matrix Decomposition
 
 - title: Experience
   type: time_table
