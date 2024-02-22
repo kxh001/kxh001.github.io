@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="567cc993-ab7e-4944-8854-1966a86681bf" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/_bibliography/papers.bib" beforeDir="false" afterPath="$PROJECT_DIR$/_bibliography/papers.bib" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/research/IDID.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/research/dino.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +58,7 @@
       <option name="presentableId" value="Default" />
       <updated>1708575500742</updated>
       <workItem from="1708575501803" duration="716000" />
-      <workItem from="1708576243333" duration="12206000" />
+      <workItem from="1708576243333" duration="12270000" />
     </task>
     <servers />
   </component>
