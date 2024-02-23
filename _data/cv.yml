@@ -56,14 +56,12 @@
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/kxh001/Info-Decomp">Info-Decomp</a>
-        year: 2024
-        description: Interpretable Diffusion Via Information Decomposition - Illuminating the fine-grained relationships learned by diffusion models by noticing a precise relationship between diffusion and information decomposition.
-
+    - title: <a href="https://github.com/kxh001/ITdiffusion">ITDiffusion</a>
+      year: 2024
+      description: Interpretable Diffusion Via Information Decomposition - Illuminating the fine-grained relationships learned by diffusion models by noticing a precise relationship between diffusion and information decomposition.
     - title: <a href="https://github.com/kxh001/ITdiffusion">ITDiffusion</a>
       year: 2023
       description: Information-Theoretic Diffusion - A brand new diffusion model or density estimator based on information theory.
-
     - title: <a href="https://github.com/kxh001/Task-Independent-EEG-Identification">Brain-Computer-Interface</a>
       year: 2018
       description: Task-Independent EEG-Identification via Low-Rank Matrix Decomposition
