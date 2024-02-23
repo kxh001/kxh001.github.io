@@ -56,7 +56,7 @@
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/kxh001/ITdiffusion">ITDiffusion</a>
+    - title: <a href="https://github.com/kxh001/Info-Decomp">Info-Decomp</a>
       year: 2024
       description: Interpretable Diffusion Via Information Decomposition - Illuminating the fine-grained relationships learned by diffusion models by noticing a precise relationship between diffusion and information decomposition.
     - title: <a href="https://github.com/kxh001/ITdiffusion">ITDiffusion</a>
