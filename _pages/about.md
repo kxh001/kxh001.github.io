@@ -23,5 +23,9 @@ We are contributing more into the ITD universe 🌌!
 
 I am actively looking for collaborators, please feel free to contact me if you are interested in my projects. Let's make a difference 🤗!
 
+
+Before joining UCR, my focus was on EEG data analysis within Brain-Computer Interface (BCI) technology, merging neuroscience with computer science. 
+I aim to contribute to the advancement of Large Brain Models (LBM) in the future 🧠.
+
 I'm living at SoCal and love sketching 🎨🖌 and visiting museums 🏛️. 
 You can find some pieces of [my work](https://kxh001.github.io/sketch) if you are interested in.
