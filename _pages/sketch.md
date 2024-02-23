@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /sketch/
-title: sketch - love never ends
+title: sketch
 nav: true
 nav_order: 3
 ---
