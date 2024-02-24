@@ -6,4 +6,4 @@ related_posts: false
 ---
 
 I attend [SoCalNLP 2023](https://socalnlp.github.io/symp23/index.html) to present 
-information-theoretic diffusion model and its potential application!
+[Information-Theoretic Diffusion](https://arxiv.org/abs/2302.03792) model and its apploications: [Interpretable Diffusion via Information Decomposition](https://arxiv.org/abs/2310.07972) !
