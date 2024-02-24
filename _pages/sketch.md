@@ -6,8 +6,7 @@ nav: true
 nav_order: 3
 ---
 
-In the tumult of 2022 and 2023, I've kept my struggles to myself, waiting for someone worthy to share them with. 
-Yet, I wonder if their significance will diminish over time. 
+In the tumult of 2022 and 2023, I've kept my struggles to myself, waiting for someone to share them with.
 While people may come and go, the solace I find in art remains, a constant testament to my journey.
 
 ### Portrait
