@@ -15,7 +15,7 @@
       description:
         - title: A GenAI and Explainable ML fanatic.
           contents:
-            - Diffusion Models
+            - Diffusion Models (interpretability & alignment)
             - Information Theory
             - Density Estimation
 
@@ -39,7 +39,7 @@
       institution: University of California, Riverside, CA, USA
       year: 2022 - now
       description:
-        - I am studying Generative AI and explainable ML based on information theory and probability estimation.
+        - I am studying Generative AI and Explainable ML based on information theory and density estimation.
 
     - title: Graduate Student Researcher
       institution: University of California, Riverside, CA, USA
@@ -66,7 +66,7 @@
       year: 2018
       description: Task-Independent EEG-Identification via Low-Rank Matrix Decomposition
 
-- title: Services
+- title: Invited Services
   type: nested_list
   contents:
     - title: Conference Reviewer
