@@ -32,9 +32,9 @@
   contents:
     - title: Research Intern -- GenAI
       institution: SonyAI, CA, USA
-      year: Jan - Mar, 2024
+      year: Winter 2024
       description:
-        - fortunate to work with Vikash Sehwag
+        - I worked with Vikash Sehwag to accelerate the training of Stable Diffusion from scratch on 8 H100 GPUs (estimated 10 times faster).
     - title: Graduate Student Researcher
       institution: University of California, Riverside, CA, USA
       year: 2022 - now
@@ -71,8 +71,9 @@
   contents:
     - title: Conference Reviewer
       items:
-        - CVPR 2024 (3 papers)
+        - CVPR 2024
         - ECCV 2024
+        - ICML 2024
     - title: Industry Presentation
       items:
         - Walmart Labs 2023
