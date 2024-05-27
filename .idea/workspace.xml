@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="567cc993-ab7e-4944-8854-1966a86681bf" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_news/announcement_1.md" beforeDir="false" afterPath="$PROJECT_DIR$/_news/announcement_1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_bibliography/papers.bib" beforeDir="false" afterPath="$PROJECT_DIR$/_bibliography/papers.bib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/cv.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/cv.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,7 +35,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/t.k./Desktop/website/kxh001.github.io/_pages&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/t.k./Desktop/website/kxh001.github.io/_news&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -45,6 +46,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_news" />
       <recent name="$PROJECT_DIR$/_pages" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -67,7 +69,11 @@
       <workItem from="1709105896967" duration="81000" />
       <workItem from="1709454878277" duration="67000" />
       <workItem from="1709455158133" duration="9000" />
-      <workItem from="1709455865075" duration="72000" />
+      <workItem from="1709455865075" duration="103000" />
+      <workItem from="1711914109175" duration="1554000" />
+      <workItem from="1711934764057" duration="382000" />
+      <workItem from="1713546571744" duration="34000" />
+      <workItem from="1716780676471" duration="646000" />
     </task>
     <servers />
   </component>

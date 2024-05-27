@@ -71,12 +71,11 @@
   contents:
     - title: Conference Reviewer
       items:
-        - CVPR 2024
-        - ECCV 2024
-        - ICML 2024
+        - 2024 (CVPR, ECCV, ICML, NeurIPS)
     - title: Industry Presentation
       items:
         - Walmart Labs 2023
+        - Sony AI 2024
 
 - title: Honors and Awards
   type: time_table
@@ -86,6 +85,7 @@
         - Dean’s Distinguished Fellowship Award from University of California, Riverside.
     - year: 2018
       items:
+        - Chinese Government Scholarship from China Scholarship Council (CSC).
         - The Meritorious Winner in Interdisciplinary Contest in Modeling. (top 9.74% in over 20,000 teams all over the world)
         - Zhejiang Province Government Scholarship.
     - year: 2017
