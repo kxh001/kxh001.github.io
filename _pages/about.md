@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm the last-year CS Ph.D. working with AMAZING ✨ [Prof. Greg Ver Steeg](https://profiles.ucr.edu/app/home/profile/gregoryv) ✨ at the University of California, Riverside. $$ \textcolor{red}{I'm currently on the job market for industry roles (Machine Learning Research Scientist or Engineering about Generative AI).} $$
+I'm the last-year CS Ph.D. working with AMAZING ✨ [Prof. Greg Ver Steeg](https://profiles.ucr.edu/app/home/profile/gregoryv) ✨ at the University of California, Riverside. <span style="color:red">I'm currently on the job market for industry roles (Machine Learning Research Scientist or Engineering about Generative AI).</span>
 
 My research interest focuses on Generative AI and Explainable ML. Specifically, we developed a brand-new diffusion model from 
 the information theory perspective, i.e., [Information-Theoretic Diffusion](https://arxiv.org/abs/2302.03792) (ITD). Before joining UCR, my focus was on EEG data analysis within Brain-Computer Interface (BCI) 🧠 technology, merging neuroscience with computer science.
