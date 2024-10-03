@@ -31,10 +31,14 @@
   type: time_table
   contents:
     - title: Research Intern -- GenAI
+      institution: Adobe Firefly, San Jose
+      year: 2024.06 - Now
+      description: I'm working on a project to redefine diffusion models. 
+    - title: Research Intern -- GenAI
       institution: SonyAI, CA, USA
       year: Winter 2024
       description:
-        - I worked with Vikash Sehwag to accelerate the training of Stable Diffusion from scratch on 8 H100 GPUs (estimated 10 times faster).
+        - I worked with Vikash Sehwag to accelerate the training of Diffusion Models from scratch on 8 H100 GPUs. It costs less than $2000 in only 3 days! 
     - title: Graduate Student Researcher
       institution: University of California, Riverside, CA, USA
       year: 2022 - now
@@ -72,6 +76,7 @@
     - title: Conference Reviewer
       items:
         - 2024 (CVPR, ECCV, ICML, NeurIPS)
+        - 2025 (ICLR, AISTATS, AAAI)
     - title: Industry Presentation
       items:
         - Walmart Labs 2023
