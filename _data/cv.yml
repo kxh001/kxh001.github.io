@@ -73,10 +73,11 @@
 - title: Invited Services
   type: nested_list
   contents:
-    - title: Conference Reviewer
+    - title: Conference 
       items:
-        - 2024 (CVPR, ECCV, ICML, NeurIPS)
-        - 2025 (ICLR, AISTATS, AAAI)
+        - 2024 Reviewer or PC (CVPR, ECCV, ICML, NeurIPS) 
+        - 2025 Reviewer or PC (ICLR, AISTATS, AAAI)
+        - 2024 Volunteer (SoCal Robotics)
     - title: Industry Presentation
       items:
         - Adobe Firefly 2024
