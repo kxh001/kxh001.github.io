@@ -21,9 +21,9 @@ I'm the last-year CS Ph.D. working with AMAZING ✨ [Prof. Greg Ver Steeg](https
 My research interest focuses on Generative AI and Explainable ML. Specifically, we developed a brand-new diffusion model from 
 the information theory perspective, i.e., [Information-Theoretic Diffusion](https://arxiv.org/abs/2302.03792) (ITD). Before joining UCR, my focus was on EEG data analysis within Brain-Computer Interface (BCI) 🧠 technology, merging neuroscience with computer science.
 
-We are contributing more into the ITD universe 🌌! I am actively looking for collaborators, please feel free to contact me if you are also interested in infromation + diffusion!
+We are contributing more into the ITD universe 🌌! I am actively looking for collaborators, please feel free to contact me if you are also interested in information + diffusion!
 
 I'm a foodie living at SoCal and love sketching 🎨🖌 and visiting museums 🏛️. 
 You can find some pieces of [my work](https://kxh001.github.io/sketch) if you are interested in.
 
-> 💼 <span style="color:coral">I'm currently on the job market for industry roles (Machine Learning Research Scientist or Engineering about Generative AI).</span>
+> 💼 <span style="color:coral">I'm currently on the job market for industry roles (Machine Learning Research Scientist about Diffusion Models).</span>
