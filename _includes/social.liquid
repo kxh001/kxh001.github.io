@@ -1,3 +1,9 @@
+<style>
+  .contact-icons a i {
+    font-size: 18px; /* 调整社交图标大小，默认一般是 24px 或 32px */
+  }
+</style>
+
 {% if site.email %}
   <a href="mailto:{{ site.email | encode_email }}" title="email"><i class="fa-solid fa-envelope"></i></a>
 {% endif %}
