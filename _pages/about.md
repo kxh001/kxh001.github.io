@@ -8,15 +8,7 @@ profile:
   align: right
   image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <div style="display: flex; align-items: center; gap: 10px;">
-      <a href="https://www.adobe.com" target="_blank">
-        <img src="assets/icons/adobe_logo.png" alt="Adobe" width="40">
-      </a>
-      <a href="https://ai.sony" target="_blank">
-        <img src="assets/icons/sonyai_logo.png" alt="Sony AI" width="40">
-      </a>
-    </div>
+  more_info:
 
 news: true # includes a list of news items
 latest_posts: false # includes a list of the newest posts
