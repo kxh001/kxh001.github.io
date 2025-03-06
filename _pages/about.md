@@ -23,4 +23,4 @@ a novel information theory perspective, i.e., [Information-Theoretic Diffusion](
 
 Before joining UCR, my focus was on EEG data analysis within Brain-Computer Interface (BCI) 🧠 technology, merging neuroscience with computer science. I'm a foodie living at SoCal and love sketching 🎨🖌 and visiting museums 🏛️. 
 
-> 💼 <span style="color:coral">I'm currently on the job market for roles about Diffusion Models or Vision Language Models.</span>
+> 💼 <span style="color:coral">I'm currently on the job market for Machine Learning research roles about Diffusion Models.</span>
