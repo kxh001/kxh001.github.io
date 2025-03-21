@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 I'm the last-year CS Ph.D. working with AMAZING Prof. ✨ [Greg Ver Steeg](https://profiles.ucr.edu/app/home/profile/gregoryv) ✨ at the University of California, Riverside.
 
 My research focuses on **Generative Models** (Diffusion Models & Energy-Based Models), particularly their **interpretability**, **alignment**, and **compositionality**. Specifically, we interpret diffusion models from 
-a novel information theory perspective, i.e., [Information-Theoretic Diffusion](https://arxiv.org/abs/2302.03792) (ITD). Our findings show that [Pointwise Mutual Information](https://arxiv.org/abs/2310.07972) enhances compositional understanding and modality alignment (e.g. text anf image). We're continuing to expand the **ITD universe** 🌌 and are actively seeking collaborators! Feel free to reach out! 🚀
+a novel information theory perspective, i.e., [Information-Theoretic Diffusion](https://arxiv.org/abs/2302.03792) (ITD). Our findings show that [Pointwise Mutual Information](https://arxiv.org/abs/2310.07972) (PMI) enhances compositional understanding and modality alignment (e.g. text and image). We're continuing to expand the **ITD universe** 🌌 and are actively seeking collaborators! Feel free to reach out! 🚀
 
 Before joining UCR, my focus was on EEG data analysis within Brain-Computer Interface (BCI) 🧠 technology, merging neuroscience with computer science. I'm a foodie living at SoCal and love sketching 🎨🖌 and visiting museums 🏛️. 
 
