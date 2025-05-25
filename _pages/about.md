@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a final-year CS Ph.D. student working with the incredible ✨ [Prof. Greg Ver Steeg](https://profiles.ucr.edu/app/home/profile/gregoryv) ✨ at the University of California, Riverside. I was an intern at <img src="/assets/icons/adobe_logo.png" alt="Adobe" class="icon"> Adobe Firefly and <img src="/assets/icons/sonyai_logo.png" alt="Sony AI" class="icon"> SonyAI. 
+I am a final-year CS Ph.D. student working with the incredible ✨ [Prof. Greg Ver Steeg](https://profiles.ucr.edu/app/home/profile/gregoryv) ✨ at the University of California, Riverside. In industry, I was an intern at `Adobe Firefly` and `SonyAI`s. 
 
 My research centers on **Generative Models** (Diffusion Models & Energy-Based Models), with a focus on their **interpretability**, **alignment**, and **compositionality**. Specifically, I explore diffusion models through a novel information-theoretic lens, termed [Information-Theoretic Diffusion](https://arxiv.org/abs/2302.03792) (ITD). Our work demonstrates how [Pointwise Mutual Information](https://arxiv.org/abs/2310.07972) (PMI) enhances compositional reasoning and modality alignment (e.g., text and image). We are actively expanding the ITD universe 🌌 and welcome collaboration opportunities! 
 
