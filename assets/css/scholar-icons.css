@@ -18,7 +18,7 @@
 
 .si {
   font-family: "Scholar Icons" !important;
-  font-weight: 200;
+  font-weight: 400;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   display: inline-block;
@@ -27,39 +27,38 @@
   text-rendering: auto;
   text-transform: none;
   line-height: 1;
-  font-size: 5px;
 }
 
 .si-1x {
-  font-size: 1em;
+  font-size: 0.5em;
 }
 
 .si-2x {
-  font-size: 2em;
+  font-size: 1em;
 }
 
 .si-3x {
-  font-size: 3em;
+  font-size: 1.5em;
 }
 
 .si-4x {
-  font-size: 4em;
+  font-size: 2em;
 }
 
 .si-5x {
-  font-size: 5em;
+  font-size: 2.5em;
 }
 
 .si-6x {
-  font-size: 6em;
+  font-size: 3em;
 }
 
 .si-7x {
-  font-size: 7em;
+  font-size: 3.5em;
 }
 
 .si-8x {
-  font-size: 8em;
+  font-size: 4em;
 }
 .si-arduino:before {
   content: "\e956";
@@ -384,11 +383,4 @@
 }
 .si-zotero:before {
   content: "\e955";
-}
-
-.adobe-logo,
-.sonyai-logo {
-  width: 10px; /* 设置宽度 */
-  height: auto; /* 保持宽高比 */
-  margin: 5px; /* 可选：添加间距 */
 }
