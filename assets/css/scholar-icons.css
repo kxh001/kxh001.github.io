@@ -384,3 +384,6 @@
 .si-zotero:before {
   content: "\e955";
 }
+.small-icons .si {
+  font-size: 0.5em;
+}
