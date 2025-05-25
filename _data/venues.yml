@@ -1,19 +1,19 @@
-CVPR:
+"CVPR":
+  url: https://cvpr.thecvf.com/
   color: "#4285F4"
-  url: "https://cvpr.thecvf.com/"
 
-ICLR:
+"ICLR":
+  url: https://iclr.cc/
   color: "#F4B400"
-  url: "https://iclr.cc/"
 
-NeurIPS:
+"NeurIPS":
+  url: https://neurips.cc/
   color: "#796878"
-  url: "https://neurips.cc/"
 
-ACL:
-  url: "https://2025.aclweb.org/"
+"ACL":
+  url: https://2025.aclweb.org/
   color: "#e8250c"
 
-Preprint:
-  url: "https://arxiv.org/"
+"Preprint":
+  url: https://arxiv.org/
   color: "#757574"
