@@ -385,3 +385,10 @@
 .si-zotero:before {
   content: "\e955";
 }
+
+.adobe-logo,
+.sonyai-logo {
+  width: 10px; /* 设置宽度 */
+  height: auto; /* 保持宽高比 */
+  margin: 5px; /* 可选：添加间距 */
+}
