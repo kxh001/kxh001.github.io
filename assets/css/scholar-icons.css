@@ -18,7 +18,7 @@
 
 .si {
   font-family: "Scholar Icons" !important;
-  font-weight: 400;
+  font-weight: 200;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   display: inline-block;
@@ -27,6 +27,7 @@
   text-rendering: auto;
   text-transform: none;
   line-height: 1;
+  font-size: 16px;
 }
 
 .si-1x {
