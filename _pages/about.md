@@ -30,8 +30,9 @@ My research centers on **Generative Models** (Diffusion Models & Energy-Based Mo
 
 Prior to UCR, I focused on EEG data analysis in Brain-Computer Interface (BCI) 🧠 technology, bridging neuroscience and computer science. Outside of research, I enjoy exploring food, sketching, and visiting museums.
 
-> 💼 <span style="color:coral">I am actively seeking Research Scientist or Applied Research Engineer roles in: <span>
+> ##### On the Job Market 💼 (Research Scientist or Applied Research Engineer) for
 >
 > - Foundations of Generative Models
 > - Multimodal Alignment & Post-Training
 > - Image & Video Generation
+{: .block-warning}

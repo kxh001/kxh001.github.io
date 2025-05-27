@@ -1,9 +1,9 @@
 ---
 layout: post
-title: a post with table of contents on a sidebar
-date: 2023-04-25 10:14:00-0400
-description: an example of a blog post with table of contents on a sidebar
-tags: formatting toc sidebar
+title: LayerGen - Redefining image generation as scene composition
+date: 2025-05-26 10:09:00-0400
+description: 
+tags: [AutoRegressive, Diffusion]
 categories: sample-posts
 giscus_comments: true
 related_posts: false
