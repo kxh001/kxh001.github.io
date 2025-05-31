@@ -93,6 +93,9 @@ blockquote {
     border-color: var(--global-warning-block);
     background-color: var(--global-warning-block-bg);
 
+    width: 100%;
+    max-width: 100%;
+
     em,
     li,
     p,
