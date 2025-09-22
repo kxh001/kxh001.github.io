@@ -23,9 +23,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/sketch/";
           },
-        },{id: "post-layergen-redefining-image-generation-as-scene-composition",
+        },{id: "post-information-facilitates-diffusion-from-a-new-perspective-mind-the-gap",
         
-          title: "LayerGen - Redefining image generation as scene composition",
+          title: "Information Facilitates Diffusion from a New Perspective - Mind the Gap!",
         
         description: "",
         section: "Posts",
@@ -93,6 +93,15 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-i-delivered-a-20-minute-presentation-at-socams-had-the-pleasure-of-attending-many-insightful-talks-and-came-away-convinced-that-the-real-agi-still-has-a-way-to-go",
           title: 'I delivered a 20-minute presentation at SOCAMS ☕, had the pleasure of attending...',
+          description: "",
+          section: "News",},{id: "news-flying-to-nashville-for-cvpr-2025-and-celebrating-my-birthday-for-the-first-time-over-30-000-feet-in-the-air",
+          title: 'Flying to Nashville for CVPR 2025 and celebrating my birthday for the first...',
+          description: "",
+          section: "News",},{id: "news-phd-defense-complete-doctor-status-unlocked",
+          title: 'PhD defense complete!! Doctor status unlocked 🍻',
+          description: "",
+          section: "News",},{id: "news-i-m-excited-to-share-that-i-ve-started-a-new-role-as-a-video-genai-researcher-at-voia-where-i-ll-be-exploring-genai-powered-filmmaking-workflows-that-incorporate-real-actors-looking-forward-to-this-journey-and-the-creative-possibilities-ahead",
+          title: 'I’m excited to share that I’ve started a new role as a Video...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
