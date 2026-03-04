@@ -5,6 +5,11 @@ title: sketch
 nav: true
 nav_order: 3
 ---
+### Latest
+<p align="center">
+  <img src="/assets/img/sketch/Fig8.svg" width="400" alt="Bleach" style="transform: rotate(90deg);"/>
+</p>
+
 
 ### Portrait
 
