@@ -106,6 +106,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-reunited-with-michael-to-create-a-2-minute-30-second-horror-sci-fi-short-film-dreamcatcher-hotel-watch-it-now-and-leave-likes-or-comments",
           title: 'I reunited with Michael to create a 2-minute-30-second horror sci-fi short film, Dreamcatcher...',
           description: "",
+          section: "News",},{id: "news-i-wrote-a-new-blog-style-note-on-diffusion-models-from-an-information-theoretic-perspective-discussing-denoising-likelihood-estimation-energy-and-why-density-estimation-may-matter-for-future-interactive-generative-models",
+          title: 'I wrote a new blog-style note on diffusion models from an information-theoretic perspective,...',
+          description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
@@ -156,7 +159,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%78%6B%6F%6E%67%30%31%36@%75%63%72.%65%64%75", "_blank");
+          window.open("mailto:%78%6B.%6A%6F%62.%6D%69%73%63@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
         id: 'social-github',
