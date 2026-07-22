@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-09-22
+date: 2025-11-17
 inline: true
 related_posts: false
 ---
 
-I’m excited to share that I’ve started a new role as a Video GenAI Researcher at BayArea, where work with [Emmy Winners](https://www.tomerrousso.com/) to explore GenAI-powered filmmaking workflows that incorporate real actors. Looking forward to this journey and the creative possibilities ahead!
+I reunited with Michael to create a 2-minute-30-second horror sci-fi short film, [Dreamcatcher Hotel](https://devpost.com/software/dreamcatcher-hotel?ref_content=user-portfolio&ref_feature=in_progress). Watch it now and leave likes or comments!

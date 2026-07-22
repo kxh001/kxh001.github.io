@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-11-17
+date: 2026-06-04
 inline: true
 related_posts: false
 ---
 
-I reunited with Michael to create a 2-minute-30-second horror sci-fi short film, [Dreamcatcher Hotel](https://devpost.com/software/dreamcatcher-hotel?ref_content=user-portfolio&ref_feature=in_progress). Watch it now and leave likes or comments!
+I wrote a new blog-style [note](https://famous-bubbler-dcc.notion.site/Diffusion-as-Density-Estimator-An-Information-Theoretic-View-of-Generative-Models-36e729e1c8f98110ad9ef8ee7e81e440?source=copy_link) on diffusion models from an information-theoretic perspective, discussing denoising, likelihood estimation, energy, and why density estimation may matter for future interactive generative models.

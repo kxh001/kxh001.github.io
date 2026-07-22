@@ -16,7 +16,7 @@ social: true # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: 6 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: false
@@ -24,10 +24,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-[I'm actively on the job market now. Update: 06/04/2026] 
+I am a Senior Machine Learning Research Engineer at Apple , where I work on GenAI + Design. I earned my PhD in Computer Science from UC Riverside under the supervision of [Prof. Greg Ver Steeg](https://profiles.ucr.edu/app/home/profile/gregoryv). Fortunately, I also worked at `SonyAI`(Host: [Vikash Sehwag](https://vsehwag.github.io/)) and `Adobe Firefly` (Host: [Hareesh Ravi](https://hareesh-ravi.github.io/)) as a Research Intern. 
 
-I am a GenAI researcher working on Multimodal Interactive Models 📍 Bay Area. I completed my PhD at UC Riverside in CS, worked with the incredible ✨ [Prof. Greg Ver Steeg](https://profiles.ucr.edu/app/home/profile/gregoryv) ✨. Fortunately, I also worked at `SonyAI`(Host: [Vikash Sehwag](https://vsehwag.github.io/)) and `Adobe Firefly` (Host: [Hareesh Ravi](https://hareesh-ravi.github.io/)) as a Research Intern. 
+My research centers on **Generative Models** (Diffusion Models & Energy-Based Models), with a focus on their **interpretability**, **alignment**, and **compositionality**. Specifically, I explore diffusion models through a novel information-theoretic lens, termed [Information-Theoretic Diffusion](https://arxiv.org/abs/2302.03792) (ITD) ℹ️. Our work demonstrates how [Mutual Information](https://arxiv.org/abs/2310.07972) enhances compositional reasoning and modality alignment (e.g., text and image). 
 
-My research centers on **Generative Models** (Diffusion Models & Energy-Based Models), with a focus on their **interpretability**, **alignment**, and **compositionality**. Specifically, I explore diffusion models through a novel information-theoretic lens, termed [Information-Theoretic Diffusion](https://arxiv.org/abs/2302.03792) (ITD) ℹ️. Our work demonstrates how [Mutual Information](https://arxiv.org/abs/2310.07972) enhances compositional reasoning and modality alignment (e.g., text and image). We are actively expanding the ITD universe 🌌 and welcome collaboration opportunities!
-
-Prior to UCR, I focused on EEG data analysis in Brain-Computer Interface (BCI) 🧠 technology, bridging neuroscience and computer science. Outside of research, I enjoy exploring food, sketching, and visiting museums.
+Before joining UC Riverside, I worked on EEG data analysis for Brain–Computer Interface (BCI) 🧠 technologies, bridging neuroscience and computer science. Outside of research, I enjoy exploring food, sketching, and visiting museums. 
